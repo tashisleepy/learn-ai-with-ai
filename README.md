@@ -149,7 +149,7 @@ No technical words.
 ├── README.md                              # This file
 ├── LEARN_AI_WITH_AI_COURSE_V3.md         # Full course (Markdown)
 ├── LEARN_AI_WITH_AI_COURSE_V3.pdf        # Full course (PDF)
-└── /code-examples                         # Ready-to-run Colab notebooks
+└── /code-examples (In files directly)                        # Ready-to-run Colab notebooks
     ├── week1_first_code.ipynb
     ├── week2_learning_machine.ipynb
     ├── week5_sklearn.ipynb
